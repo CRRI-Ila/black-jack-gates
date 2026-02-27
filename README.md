@@ -6,6 +6,8 @@ This project implements a two-player, Blackjack-inspired “Race to 8” game en
 
 The objective was to design a sequential digital system incorporating counters, memory elements, arithmetic logic, and magnitude comparison to determine a winner based on proximity to a target value (8).
 
+![WhatsApp Image 2026-02-27 at 10 37 10 PM](https://github.com/user-attachments/assets/d387673e-d39f-4b3a-b5e6-1bdfe21fc792)
+
 ---
 
 ## Game Concept
